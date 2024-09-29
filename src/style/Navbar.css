@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navbar{
+    position: relative;
+    display: flex;
+    top: -15px;
+    background-color: aqua;
+    
+}
+
+.shoppig{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.cart{
+    position: relative;
+    top: 20px;
+    left: 80%;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: aqua;
+    
+} 
